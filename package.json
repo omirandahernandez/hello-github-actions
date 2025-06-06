@@ -6,7 +6,7 @@
   "scripts": {
     "test": "newman run HR\\ API\\ Tests.postman_collection.json -e Entorno\\ de\\ pruebas.postman_environment.json"
   },
-  "author": "",
+  "author": "Omar Miranda",
   "license": "ISC",
   "dependencies": {}
 }
